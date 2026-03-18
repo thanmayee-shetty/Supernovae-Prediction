@@ -1,5 +1,3 @@
-# Supernovae-Prediction
-
 \documentclass[11pt]{article}
 \usepackage[a4paper, margin=1in]{geometry}
 \usepackage{hyperref}
