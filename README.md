@@ -105,6 +105,6 @@ These results indicate improved classification performance and better-calibrated
 ## Usage
 
 ```bash
-git clone <your-repo-link>
-cd <repo-name>
+git clone https://github.com/thanmayee-shetty/supernova-prediction.git
+cd supernova-prediction
 pip install -r requirements.txt
