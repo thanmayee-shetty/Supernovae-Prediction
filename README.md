@@ -1,6 +1,6 @@
 # Multimodal Supernova Progenitor Prediction
 
-Paper: [View Paper](./mldl_paper.pdf)
+Paper: [View Paper](./supernova_springer.pdf)
 
 ---
 
